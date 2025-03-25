@@ -1,8 +1,8 @@
-#Sistema de Reserva de Salas
+Sistema de Reserva de Salas
 
 Um sistema simples e eficiente para gerenciar a reserva e liberação de salas em um ambiente acadêmico ou corporativo. Permite visualizar salas disponíveis, realizar reservas, liberar salas e acompanhar suas reservas futuras.
 
-#Funcionalidades
+Funcionalidades
 
 ✅ Listagem de Salas:
 
@@ -78,30 +78,3 @@ $ npm run dev
 Acesse no navegador:
 
 http://localhost:5173
-
-📘 Como Contribuir
-
-Contribuições são bem-vindas! Para contribuir:
-
-Fork o repositório.
-
-Crie uma branch para sua feature:
-
-git checkout -b minha-feature
-
-Faça suas alterações e commite:
-
-git commit -m "Adiciona nova feature"
-
-Envie para o GitHub:
-
-git push origin minha-feature
-
-Abra um Pull Request.
-
-📝 Licença
-
-Este projeto é de uso livre para fins educacionais.
-
-💻 Desenvolvido por Dherick
-
