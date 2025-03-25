@@ -85,4 +85,3 @@ Clique em "Liberar" para cancelar uma reserva.
 
 
 
-Feito por Dherick!
