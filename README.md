@@ -64,16 +64,16 @@ Git: Download
 
 Clone o repositório:
 
-$ git clone https://github.com/seu-usuario/reserva-salas.git
-$ cd reserva-salas
+git clone https://github.com/seu-usuario/reserva-salas.git
+cd reserva-salas
 
 Instale as dependências:
 
-$ npm install
+npm install
 
 Inicie o servidor de desenvolvimento:
 
-$ npm run dev
+npm start
 
 Acesse no navegador:
 
