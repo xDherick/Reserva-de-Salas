@@ -34,7 +34,7 @@ git clone https://github.com/seu-usuario/reserva-salas.git
 
 2 - Acesse o diretório do projeto.
 
-3 - Instale as dependências:
+3 - Instale as dependências no terminal:
 
 npm install
 
