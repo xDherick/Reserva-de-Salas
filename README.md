@@ -40,7 +40,7 @@ npm install
 
 ## ▶️ Executando a Aplicação
 
-Para iniciar a aplicação em modo de desenvolvimento:
+Para iniciar a aplicação digite:
 
 npm start
 
