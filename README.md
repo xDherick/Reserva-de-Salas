@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação React para gerenciamento de reservas de salas, permitindo que os usuários façam, visualizem e cancelem reservas de maneira eficiente.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Reservar Salas: Permite reservar salas disponíveis selecionando bloco, nome da sala, data e horário.
 
@@ -12,13 +12,13 @@ Filtragem por Bloco: Filtra as salas por bloco para facilitar a busca.
 
 Visualizar Minhas Reservas: Lista todas as reservas feitas pelo usuário, permitindo o cancelamento.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 React + TypeScript: Desenvolvimento da interface interativa e tipagem segura.
 
 CSS Modules: Estilização encapsulada para evitar conflitos.
 
-📌 Pré-requisitos
+## 📌 Pré-requisitos
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
@@ -26,21 +26,19 @@ Node.js
 
 Git
 
-📥 Instalação
+## 📥 Instalação
 
-Clone este repositório:
+1 - Clone este repositório no terminal:
 
 git clone https://github.com/seu-usuario/reserva-salas.git
 
-Acesse o diretório do projeto:
+2 - Acesse o diretório do projeto.
 
-cd reserva-salas
-
-Instale as dependências:
+3 - Instale as dependências:
 
 npm install
 
-▶️ Executando a Aplicação
+## ▶️ Executando a Aplicação
 
 Para iniciar a aplicação em modo de desenvolvimento:
 
@@ -48,7 +46,7 @@ npm start
 
 Acesse no navegador: http://localhost:3000
 
-📊 Como Usar
+## 📊 Como Usar
 
 Reservar uma Sala:
 
