@@ -1,6 +1,6 @@
 ## Sistema de Reserva de Salas - UniEVANGÉLICA
 
-Este projeto é uma aplicação React para gerenciamento de reservas de salas, permitindo que os usuários façam, visualizem e cancelem reservas de maneira eficiente.
+Este projeto é um MVP de uma aplicação React para gerenciamento de reservas de salas, permitindo que os usuários façam, visualizem e cancelem reservas de maneira eficiente.
 
 ## 🚀 Funcionalidades
 
