@@ -1,8 +1,8 @@
-📚 Sistema de Reserva de Salas
+#Sistema de Reserva de Salas
 
 Um sistema simples e eficiente para gerenciar a reserva e liberação de salas em um ambiente acadêmico ou corporativo. Permite visualizar salas disponíveis, realizar reservas, liberar salas e acompanhar suas reservas futuras.
 
-🚀 Funcionalidades
+#Funcionalidades
 
 ✅ Listagem de Salas:
 
