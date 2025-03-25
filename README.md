@@ -16,7 +16,7 @@ Visualizar Minhas Reservas: Lista todas as reservas feitas pelo usuário, permit
 
 React + TypeScript: Desenvolvimento da interface interativa e tipagem segura.
 
-CSS Modules: Estilização encapsulada para evitar conflitos.
+CSS Modules: Priorizando boas práticas de estilização.
 
 ## 📌 Pré-requisitos
 
