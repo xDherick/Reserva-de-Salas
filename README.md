@@ -18,25 +18,6 @@ React + TypeScript: Desenvolvimento da interface interativa e tipagem segura.
 
 CSS Modules: Estilização encapsulada para evitar conflitos.
 
-📂 Estrutura do Projeto
-
-reserva-salas/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Filter.tsx
-│   │   ├── Header.tsx
-│   │   ├── ReservationForm.tsx
-│   │   ├── RoomItem.tsx
-│   │   └── RoomList.tsx
-│   ├── utils/
-│   │   └── data.ts
-│   ├── App.tsx
-│   ├── index.tsx
-│   └── App.module.css
-└── package.json
-
 📌 Pré-requisitos
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
