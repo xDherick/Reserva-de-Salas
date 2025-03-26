@@ -28,9 +28,9 @@ Git
 
 ## 📥 Instalação
 
-1 - Clone este repositório no terminal:
+1 - Clone este repositório no terminal (de preferência o Git Bash):
 
-git clone https://github.com/xDherick/reserva-salas.git
+git clone https://github.com/xDherick/reserva-de-salas.git
 
 2 - Acesse o diretório do projeto.
 
