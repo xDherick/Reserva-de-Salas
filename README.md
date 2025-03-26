@@ -30,7 +30,7 @@ Git
 
 1 - Clone este repositório no terminal:
 
-git clone https://github.com/seu-usuario/reserva-salas.git
+git clone https://github.com/xDherick/reserva-salas.git
 
 2 - Acesse o diretório do projeto.
 
